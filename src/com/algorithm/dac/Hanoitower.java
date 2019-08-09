@@ -1,4 +1,4 @@
-package com.atguigu.dac;
+package com.algorithm.dac;
 
 public class Hanoitower {
 

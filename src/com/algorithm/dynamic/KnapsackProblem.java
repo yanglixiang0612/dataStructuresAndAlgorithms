@@ -1,4 +1,4 @@
-package com.atguigu.dynamic;
+package com.algorithm.dynamic;
 
 //动态规划算法--01背包问题
 public class KnapsackProblem {
